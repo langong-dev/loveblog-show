@@ -1,7 +1,10 @@
 # Home
 ### [Show](show.md)
 
-Show is creat in 2020/06/29, url-id is show
+**Show** is creat in **2020/06/29**, url-id is **show** 
 
 
-Powered by LanGong Love Blog
+---
+
+
+Powered by [LanGong Love Blog](https://langong-dev.github.io/love-blog)
