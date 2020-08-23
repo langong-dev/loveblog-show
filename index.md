@@ -1,10 +1,7 @@
-# Home
-### [Show](show.md)
+[**First Page**](test)
 
-**Show** is creat in **2020/06/29**, url-id is **show** 
-
+Creat in **2020 08 01** with url **test**
 
 ---
 
-
-Powered by [LanGong Love Blog](https://langong-dev.github.io/love-blog)
+This site is powered by [QLoveBlog](https://github.com/loveblog/qloveblog).
