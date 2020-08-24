@@ -1,12 +1,6 @@
-[**QLoveBlog Test Page**](test)
+[**QLoveBlog Test**](qloveblogtest)
 
-Creat in **2020 08 01** with url **test**
-
----
-
-[**Test 2**](t2)
-
-Creat in **2020 08 01** with url **t2**
+Creat in **2020 08 24** with url **qloveblogtest**
 
 ---
 
